@@ -75,9 +75,8 @@ public class Agenda {
             }
 
             case 5 -> {
-                System.exit(0);
-            }
+                System.out.println("Hasta la próxima!");
+                System.exit(0);}
         }
     }
-
 }
